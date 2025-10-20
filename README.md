@@ -11,6 +11,9 @@
 
 <img width="1702" height="940" alt="スクリーンショット 2025-10-20 14 59 25" src="https://github.com/user-attachments/assets/537fd67f-bb66-4504-99e0-3bce026a2261" />
 
+https://github.com/user-attachments/assets/980ad524-5dd7-4b0a-a6a9-e1d7da404998
+
+
 ### 特徴
 
 * ローカルストレージのみで動作（バックエンド不要）
